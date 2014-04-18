@@ -17,7 +17,7 @@ Our project aims to regulate the temperature of the model greenhouse by
 1) introducing a shade over the plant and 
 2) using PC fan for air circulation
 We measure the current temperature using temperature sensor and depending on the readings,
-initiates appropriate action to regulate it.
+initiate appropriate action to regulate it.
 
 We have also provided a simple user interface, so that it can be used by someone with minimal knowledge of computers.
 
